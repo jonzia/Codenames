@@ -2,6 +2,8 @@ CODENAMES AI Version 1.0
 
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database which was partially mapped to .mat files and stored in the Database folder.
 
+DEMO: https://youtu.be/yX2YkhvAtM4
+
 TO RUN:
 
 1. Open "GiveClues.m" in MATLAB.
