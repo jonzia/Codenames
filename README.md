@@ -1,4 +1,4 @@
-# Codenames AI v1.0.1
+# Codenames v1.0.1
 
 ## Description
 This program generates clues based on either 8 or 9 words entered by the user. The words must be taken from the 400-word set of the Codenames board game. The clues are generated based on an analysis of the Priceton Wordnet database which was partially mapped to .mat files and stored in the *Database* folder.
